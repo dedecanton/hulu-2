@@ -2,7 +2,11 @@
 
 const API_KEY = process.env.API_KEY;
 
-export default {
+type Results = {
+    [key:string]: any
+}
+
+const results:Results= {
     fetchTrending: {
         title: 'Trending',
         url: `/trending/all/week?api_key=${API_KEY}&language=en-US`
@@ -48,3 +52,5 @@ export default {
         url: `/discover/movie?api_key=${API_KEY}&with_genres=10770`
     },
 }
+
+export default results
