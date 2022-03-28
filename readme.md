@@ -7,3 +7,5 @@ Além disso, visando tirar um maior proveito do projeto, tomei a decisão de des
 [Você pode conferir o resultado aqui:](http://hulu-2-khaki.vercel.app) [hulu-2-khaki.vercel.app](https://hulu-2-khaki.vercel.app/)
 
 Demonstração do projeto: 
+
+https://user-images.githubusercontent.com/67431433/160423821-8b94f1f5-aa41-4828-81a8-d6c7a5fa8dad.mp4
