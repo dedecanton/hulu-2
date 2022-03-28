@@ -8,4 +8,6 @@ Além disso, visando tirar um maior proveito do projeto, tomei a decisão de des
 
 Demonstração do projeto: 
 
-https://user-images.githubusercontent.com/67431433/160423821-8b94f1f5-aa41-4828-81a8-d6c7a5fa8dad.mp4
+
+https://user-images.githubusercontent.com/67431433/160447933-665b4730-00c5-4f4e-bc78-1683fa16a63a.mp4
+
